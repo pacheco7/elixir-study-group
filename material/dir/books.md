@@ -1,33 +1,24 @@
 ## Livros sobre elixir
 
 * [Iniciante](#iniciante)
-* [Avançado](#avancado)
-
+* [Avançado](#avançado)
+* [Desenvolvimento WEB](#desenvolvimento-web)
 
 **Iniciante**
 ----
 
-- [Getting Started](http://elixir-lang.org/getting-started/introduction.html)
-- [Adopting Elixir](https://pragprog.com/book/tvmelixir/adopting-elixir)
-- [Elixir School](http://elixirschool.com/) *Free*
-
-### [Introducing Elixir](http://shop.oreilly.com/product/0636920030584.do)
-
-### [Études for Elixir](http://chimera.labs.oreilly.com/books/1234000001642) *Free*
-
-### [Elixir Cookbook](https://www.packtpub.com/application-development/elixir-cookbook)
-
-### [Elixir in Action](https://www.manning.com/books/elixir-in-action)
-
-### [The Little Elixir & OTP Guidebook](https://www.manning.com/books/the-little-elixir-and-otp-guidebook)
-
-### [Learning Elixir](https://www.packtpub.com/application-development/learning-elixir)
-
-### [Programming Elixir 1.3](https://pragprog.com/book/elixir13/programming-elixir-1-3)
-
-### [Learn You Some Erlang for Great Good](http://learnyousomeerlang.com)
-
-### [Learn Functional Programming with Elixir](https://pragprog.com/book/cdc-elixir/learn-functional-programming-with-elixir)
+[Getting Started](http://elixir-lang.org/getting-started/introduction.html)
+[Adopting Elixir](https://pragprog.com/book/tvmelixir/adopting-elixir)
+[Elixir School](http://elixirschool.com/)
+[Introducing Elixir](http://shop.oreilly.com/product/0636920030584.do)
+[Études for Elixir](http://chimera.labs.oreilly.com/books/1234000001642)
+[Elixir Cookbook](https://www.packtpub.com/application-development/elixir-cookbook)
+[Elixir in Action](https://www.manning.com/books/elixir-in-action)
+[The Little Elixir & OTP Guidebook](https://www.manning.com/books/the-little-elixir-and-otp-guidebook)
+[Learning Elixir](https://www.packtpub.com/application-development/learning-elixir)
+[Programming Elixir 1.3](https://pragprog.com/book/elixir13/programming-elixir-1-3)
+[Learn You Some Erlang for Great Good](http://learnyousomeerlang.com)
+[Learn Functional Programming with Elixir](https://pragprog.com/book/cdc-elixir/learn-functional-programming-with-elixir)
 
 **Avançado**
 ---
