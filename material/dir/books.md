@@ -7,11 +7,9 @@
 **Iniciante**
 ----
 
-### [Getting Started](http://elixir-lang.org/getting-started/introduction.html)
-
-### [Adopting Elixir](https://pragprog.com/book/tvmelixir/adopting-elixir)
-
-### [Elixir School](http://elixirschool.com/) *Free*
+- [Getting Started](http://elixir-lang.org/getting-started/introduction.html)
+- [Adopting Elixir](https://pragprog.com/book/tvmelixir/adopting-elixir)
+- [Elixir School](http://elixirschool.com/) *Free*
 
 ### [Introducing Elixir](http://shop.oreilly.com/product/0636920030584.do)
 
